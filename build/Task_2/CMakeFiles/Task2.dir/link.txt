@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=address -fno-omit-frame-pointer CMakeFiles/Task2.dir/Task_2.cpp.o -o Task2 

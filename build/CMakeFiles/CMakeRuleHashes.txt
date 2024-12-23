@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+a4597d4e7cf532d6ee1cdce5de498c8f Task_1/CMakeFiles/linterT1
+728620aedc0ff6e253404ca4f7a48641 Task_2/CMakeFiles/linterT2
+e88ff787646bf24be8ddd7d67633f796 Task_3/CMakeFiles/linterT3
+f7a6b562b3daaed477708083ecdeb510 Task_4/CMakeFiles/linterT4
+51264e7a52261807d0485888ddc005e0 Task_5/CMakeFiles/linterT5
